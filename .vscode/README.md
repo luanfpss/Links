@@ -22,9 +22,10 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## 📖 Sobre
 
+## 📖 Sobre
 Esse é meu primeiro projeto feito usando as aulas do curso Discover disponibilizado pela Rocketseat.
+
 
 ## 🚀 Tecnologias
 
@@ -40,7 +41,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Links é um agregador de links para usar como cartão de visitas online.
 
 <!-- trocar esse link -->
-
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
 ## 🔖 Layout
