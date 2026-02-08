@@ -52,4 +52,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by lulu :wave: [Dicord Rocketseat!](https://discord.gg/rocketseat)
+Feito com ♥ by luan :wave: [Dicord Rocketseat!](https://discord.gg/rocketseat)
